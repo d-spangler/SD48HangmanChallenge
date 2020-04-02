@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\SD48GoldBadge\Hangman\Hangman\Content\bin\Debug\Content.dll
+C:\ElevenFiftyProjects\SD48GoldBadge\Hangman\Hangman\Content\bin\Debug\Content.pdb
+C:\ElevenFiftyProjects\SD48GoldBadge\Hangman\Hangman\Content\obj\Debug\Hangman_Repo.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\SD48GoldBadge\Hangman\Hangman\Content\obj\Debug\Hangman_Repo.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\SD48GoldBadge\Hangman\Hangman\Content\obj\Debug\Content.dll
+C:\ElevenFiftyProjects\SD48GoldBadge\Hangman\Hangman\Content\obj\Debug\Content.pdb

@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\SD48GoldBadge\Hangman\Hangman\Hangman_Console2\bin\Debug\Hangman_Console2.exe.config
+C:\ElevenFiftyProjects\SD48GoldBadge\Hangman\Hangman\Hangman_Console2\bin\Debug\Hangman_Console2.exe
+C:\ElevenFiftyProjects\SD48GoldBadge\Hangman\Hangman\Hangman_Console2\bin\Debug\Hangman_Console2.pdb
+C:\ElevenFiftyProjects\SD48GoldBadge\Hangman\Hangman\Hangman_Console2\bin\Debug\Content.dll
+C:\ElevenFiftyProjects\SD48GoldBadge\Hangman\Hangman\Hangman_Console2\bin\Debug\Content.pdb
+C:\ElevenFiftyProjects\SD48GoldBadge\Hangman\Hangman\Hangman_Console2\obj\Debug\Hangman_Console2.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\SD48GoldBadge\Hangman\Hangman\Hangman_Console2\obj\Debug\Hangman_Console2.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\SD48GoldBadge\Hangman\Hangman\Hangman_Console2\obj\Debug\Hangman_Console2.csproj.CopyComplete
+C:\ElevenFiftyProjects\SD48GoldBadge\Hangman\Hangman\Hangman_Console2\obj\Debug\Hangman_Console2.exe
+C:\ElevenFiftyProjects\SD48GoldBadge\Hangman\Hangman\Hangman_Console2\obj\Debug\Hangman_Console2.pdb
